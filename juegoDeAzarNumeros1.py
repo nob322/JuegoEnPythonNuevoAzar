@@ -84,3 +84,5 @@ else:
     print(f"El número correcto era: {restarNumeros}, otro día será.")       
     time.sleep(0.4)     
     print("-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-")
+#Juego creado por David Sanchez
+# https://github.com/nob322
